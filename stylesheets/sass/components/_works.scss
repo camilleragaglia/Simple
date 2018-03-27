@@ -10,8 +10,9 @@
 #pro{
   height: 47px;
   width: auto;
-  top: 35%;
-  left: 34%;
+  top: 38%;
+  left: 41%;
+  z-index: 10;
 }
 
 p3{
@@ -19,12 +20,14 @@ p3{
   width: auto;
   position: absolute;
   letter-spacing: .1em;
-  top: 113%;
-  left: 24%;
+  top: 116%;
+  left: 29.5%;
 
   color: #000;
   font-family: "Veranda";
   font-size: 16px;
+  text-align: center;
+  z-index: 10;
 }
 
 .deliver{
@@ -37,8 +40,9 @@ p3{
 #d1{
   height: 47px;
   width: auto;
-  top: 31%;
-  left: 62%;
+  top: 34%;
+  left: 61%;
+  z-index: 10;
 }
 
 p4{
@@ -46,12 +50,14 @@ p4{
   width: auto;
   position: absolute;
   letter-spacing: .1em;
-  top: 113%;
-  left: 47%;
+  top: 116%;
+  left: 45%;
 
   color: #000;
   font-family: "Veranda";
   font-size: 16px;
+  text-align: center;
+  z-index: 10;
 }
 
 .life{
@@ -64,8 +70,9 @@ p4{
 #l1{
   height: 47px;
   width: auto;
-  top: 27%;
-  left: 88%;
+  top: 29.5%;
+  left: 82%;
+  z-index: 10;
 }
 
 p5{
@@ -73,10 +80,36 @@ p5{
   width: auto;
   position: absolute;
   letter-spacing: .1em;
-  top: 113%;
-  left: 66%;
+  top: 116%;
+  left: 61%;
 
   color: #000;
   font-family: "Veranda";
   font-size: 16px;
+  text-align: center;
+  z-index: 10;
+}
+
+.square{
+  height: 34%;
+  width: 49%;
+  position: absolute;
+  background-color: #FFF;
+  left: 25%;
+  top: 98%;
+}
+
+p6{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 100%;
+  left: 42.5%;
+
+  color: #000;
+  font-family: "Kiona";
+  font-size: 22px;
+  text-align: center;
+  z-index: 10;
 }
