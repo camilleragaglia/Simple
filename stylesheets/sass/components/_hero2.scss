@@ -1,0 +1,55 @@
+//HERO 2 SASS CODE
+
+.fitness{
+  background: url('imgs/Shoe.png') no-repeat;
+
+  position: relative;
+  background-size: contain;
+}
+
+#f1{
+  height: 100px;
+  width: auto;
+  top: 40%;
+  left: 50%;
+}
+
+p1{
+  height: auto;
+  width: auto;
+  position: fixed;
+  letter-spacing: .1em;
+  top: 75%;
+  left: 19%;
+
+  color: #000;
+  font-family: "Veranda";
+  font-size: 16px;
+}
+
+.food{
+  background: url('imgs/Fork&Knife.png') no-repeat;
+
+  position: relative;
+  background-size: contain;
+}
+
+#f2{
+  height: 100px;
+  width: auto;
+  top: 26.5%;
+  left: 128%;
+}
+
+p2{
+  height: auto;
+  width: auto;
+  position: fixed;
+  letter-spacing: .1em;
+  top: 75%;
+  left: 58%;
+
+  color: #000;
+  font-family: "Veranda";
+  font-size: 16px;
+}
