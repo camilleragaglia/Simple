@@ -1,0 +1,115 @@
+// HOW IT WORKS CODE
+
+.program{
+  background: url('imgs/Hand.png') no-repeat;
+
+  position: relative;
+  background-size: contain;
+}
+
+#pro{
+  height: 47px;
+  width: auto;
+  top: 38%;
+  left: 41%;
+  z-index: 10;
+}
+
+p3{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 116%;
+  left: 29.5%;
+
+  color: #000;
+  font-family: "Veranda";
+  font-size: 16px;
+  text-align: center;
+  z-index: 10;
+}
+
+.deliver{
+  background: url('imgs/Box.png') no-repeat;
+
+  position: relative;
+  background-size: contain;
+}
+
+#d1{
+  height: 47px;
+  width: auto;
+  top: 34%;
+  left: 61%;
+  z-index: 10;
+}
+
+p4{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 116%;
+  left: 45%;
+
+  color: #000;
+  font-family: "Veranda";
+  font-size: 16px;
+  text-align: center;
+  z-index: 10;
+}
+
+.life{
+  background: url('imgs/Heart.png') no-repeat;
+
+  position: relative;
+  background-size: contain;
+}
+
+#l1{
+  height: 47px;
+  width: auto;
+  top: 29.5%;
+  left: 82%;
+  z-index: 10;
+}
+
+p5{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 116%;
+  left: 61%;
+
+  color: #000;
+  font-family: "Veranda";
+  font-size: 16px;
+  text-align: center;
+  z-index: 10;
+}
+
+.square{
+  height: 34%;
+  width: 49%;
+  position: absolute;
+  background-color: #FFF;
+  left: 25%;
+  top: 98%;
+}
+
+p6{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 100%;
+  left: 42.5%;
+
+  color: #000;
+  font-family: "Kiona";
+  font-size: 22px;
+  text-align: center;
+  z-index: 10;
+}
