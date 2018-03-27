@@ -6,8 +6,10 @@ h1{
   width: auto;
   position: fixed;
   letter-spacing: .1em;
-  top: 20%;
-  left: 23%;
+  top: 4%;
+  left: 28%;
+  position: relative;
+  background-size: contain;
 
   color: #000;
   font-family: "Kiona";
@@ -19,8 +21,10 @@ h2{
   width: auto;
   position: fixed;
   letter-spacing: .1em;
-  top: 33%;
-  left: 39%;
+  top: 8%;
+  left: 50%;
+  position: relative;
+  background-size: contain;
 
   color: #000;
   font-family: "Veranda";
@@ -37,6 +41,6 @@ h2{
 #b1{
   height: 5px;
   width: auto;
-  top: 28%;
-  left: 48%;
+  top: 10%;
+  left: 30%;
 }

@@ -1,0 +1,82 @@
+// HOW IT WORKS CODE
+
+.program{
+  background: url('imgs/Hand.png') no-repeat;
+
+  position: relative;
+  background-size: contain;
+}
+
+#pro{
+  height: 47px;
+  width: auto;
+  top: 35%;
+  left: 34%;
+}
+
+p3{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 113%;
+  left: 24%;
+
+  color: #000;
+  font-family: "Veranda";
+  font-size: 16px;
+}
+
+.deliver{
+  background: url('imgs/Box.png') no-repeat;
+
+  position: relative;
+  background-size: contain;
+}
+
+#d1{
+  height: 47px;
+  width: auto;
+  top: 31%;
+  left: 62%;
+}
+
+p4{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 113%;
+  left: 47%;
+
+  color: #000;
+  font-family: "Veranda";
+  font-size: 16px;
+}
+
+.life{
+  background: url('imgs/Heart.png') no-repeat;
+
+  position: relative;
+  background-size: contain;
+}
+
+#l1{
+  height: 47px;
+  width: auto;
+  top: 27%;
+  left: 88%;
+}
+
+p5{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 113%;
+  left: 66%;
+
+  color: #000;
+  font-family: "Veranda";
+  font-size: 16px;
+}
