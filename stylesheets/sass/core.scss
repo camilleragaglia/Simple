@@ -2,6 +2,7 @@
 
 //IMPORTED PARTIALS
 @import 'components/reset';
+@import 'components/basetags';
 @import 'components/navbar';
 @import 'components/hero1';
 @import 'components/hero2';
@@ -9,9 +10,3 @@
 @import 'components/footer';
 
 //MASTER CONTROLS
-
-body{
-  height: auto;
-  width: 1054px;
-  background-color: #EEF1F2;
-}
