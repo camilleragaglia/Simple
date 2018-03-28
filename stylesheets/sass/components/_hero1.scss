@@ -3,11 +3,10 @@
 h1{
   height: 40px;
   width: auto;
-  position: fixed;
+  position: absolute;
   letter-spacing: .1em;
-  top: 4%;
-  left: 29%;
-  position: relative;
+  top: 20%;
+  left: 23%;
   background-size: contain;
 
   color: #000;
@@ -18,16 +17,15 @@ h1{
 h2{
   height: 40px;
   width: auto;
-  position: fixed;
   letter-spacing: .1em;
-  top: 8%;
-  left: 50%;
-  position: relative;
+  top: 32%;
+  left: 38%;
+  position: absolute;
   background-size: contain;
 
   color: #000;
   font-family: "Veranda";
-  font-size: 19px;
+  font-size: 20px;
 }
 
 .break{
@@ -35,11 +33,12 @@ h2{
 
   position: relative;
   background-size: contain;
+  display: flex;
 }
 
 #b1{
   height: 5px;
   width: auto;
-  top: 10%;
-  left: 30%;
+  top: 180px;
+  left: 23.20%;
 }

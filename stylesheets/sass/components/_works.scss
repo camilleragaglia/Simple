@@ -1,5 +1,31 @@
 // HOW IT WORKS CODE
 
+.square{
+  height: 34%;
+  width: 49%;
+  position: absolute;
+  background-color: #FFF;
+  left: 26%;
+  top: 98%;
+  background-size: contain;
+  display: flex;
+}
+
+p6{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 100%;
+  left: 43%;
+
+  color: #000;
+  font-family: "Kiona";
+  font-size: 22px;
+  text-align: center;
+  z-index: 10;
+}
+
 .program{
   background: url('imgs/Hand.png') no-repeat;
 
@@ -11,8 +37,8 @@
 #pro{
   height: 47px;
   width: auto;
-  top: 38%;
-  left: 43%;
+  top: 467px;
+  left: 33%;
   z-index: 10;
 }
 
@@ -22,7 +48,7 @@ p3{
   position: absolute;
   letter-spacing: .1em;
   top: 116%;
-  left: 29.5%;
+  left: 31%;
 
   color: #000;
   font-family: "Veranda";
@@ -36,13 +62,14 @@ p3{
 
   position: relative;
   background-size: contain;
+  display: flex;
 }
 
 #d1{
   height: 47px;
   width: auto;
-  top: 34%;
-  left: 61%;
+  top: 422px;
+  left: 48%;
   z-index: 10;
 }
 
@@ -52,7 +79,7 @@ p4{
   position: absolute;
   letter-spacing: .1em;
   top: 116%;
-  left: 40%;
+  left: 46%;
 
   color: #000;
   font-family: "Veranda";
@@ -66,13 +93,14 @@ p4{
 
   position: relative;
   background-size: contain;
+  display: flex;
 }
 
 #l1{
   height: 47px;
   width: auto;
-  top: 29.5%;
-  left: 82%;
+  top: 380px;
+  left: 63%;
   z-index: 10;
 }
 
@@ -87,32 +115,6 @@ p5{
   color: #000;
   font-family: "Veranda";
   font-size: 16px;
-  text-align: center;
-  z-index: 10;
-}
-
-.square{
-  height: 34%;
-  width: 49%;
-  position: absolute;
-  background-color: #FFF;
-  left: 25%;
-  top: 98%;
-  background-size: contain;
-  display: flex;
-}
-
-p6{
-  height: auto;
-  width: auto;
-  position: absolute;
-  letter-spacing: .1em;
-  top: 100%;
-  left: 42.5%;
-
-  color: #000;
-  font-family: "Kiona";
-  font-size: 22px;
   text-align: center;
   z-index: 10;
 }
