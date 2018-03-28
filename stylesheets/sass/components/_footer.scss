@@ -1,11 +1,11 @@
 // FOOTER CODE
 
 .footer{
-  height: 13%;
-  width: 150%;
+  height: 17%;
+  width: 1024%;
   position: absolute;
   background-color: #FFF;
-  top: 145%;
+  top: 150%;
 }
 
 .icons{
@@ -13,22 +13,63 @@
   width: 150%;
   position: absolute;
   z-index: 10;
+  cursor: pointer;
 }
 
 #fb{
   background: url('imgs/facebook.png') no-repeat;
-  top: 149%;
-  left: 38%;
+  top: 154.5%;
+  left: 40%;
 }
 
 #insta{
   background: url('imgs/insta.png') no-repeat;
-  top: 149.5%;
+  top: 154.5%;
   left: 48%;
 }
 
 #twitter{
   background: url('imgs/twitter.png') no-repeat;
-  top: 149.8%;
-  left: 58%;
+  top: 154.5%;
+  left: 56%;
+}
+
+p7{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 155%;
+  left: 10%;
+  cursor: pointer;
+
+  color: #000;
+  font-family: "Kiona";
+  font-size: 24px;
+  text-align: center;
+  z-index: 10;
+
+  &:hover{
+    color: #52A2D8;
+  }
+}
+
+p8{
+  height: auto;
+  width: auto;
+  position: absolute;
+  letter-spacing: .1em;
+  top: 155%;
+  left: 80%;
+  cursor: pointer;
+
+  color: #000;
+  font-family: "Kiona";
+  font-size: 24px;
+  text-align: center;
+  z-index: 10;
+
+  &:hover{
+    color: #52A2D8;
+  }
 }
