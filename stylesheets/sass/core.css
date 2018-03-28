@@ -215,7 +215,8 @@ p2 {
 .program {
   background: url("imgs/Hand.png") no-repeat;
   position: relative;
-  background-size: contain; }
+  background-size: contain;
+  display: flex; }
 
 #pro {
   height: 47px;
@@ -255,7 +256,7 @@ p4 {
   position: absolute;
   letter-spacing: .1em;
   top: 116%;
-  left: 45%;
+  left: 40%;
   color: #000;
   font-family: "Veranda";
   font-size: 16px;
