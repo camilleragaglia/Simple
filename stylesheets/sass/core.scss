@@ -2,6 +2,7 @@
 
 //IMPORTED PARTIALS
 @import 'components/reset';
+@import 'components/basetags';
 @import 'components/navbar';
 @import 'components/hero1';
 @import 'components/hero2';
@@ -11,7 +12,8 @@
 //MASTER CONTROLS
 
 body{
-  height: 1054px;
-  width: 1054px;
+  height: auto;
+  width: 100vw;
   background-color: #EEF1F2;
+  overflow-x: hidden;
 }
