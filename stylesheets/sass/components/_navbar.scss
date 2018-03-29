@@ -19,7 +19,7 @@ hr{
   letter-spacing: .1em;
   font-size: 1.15em;
   font-family: "Kiona";
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 0px 25px;
   box-sizing: border-box;
 }
@@ -72,7 +72,7 @@ ul{
 .logo{
   background: url('imgs/Simple.png') no-repeat;
   height: auto;
-  width: 125px;
+  width: 135px;
   margin-top: 15px;
   display: flex;
   align-items: center;

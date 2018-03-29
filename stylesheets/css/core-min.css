@@ -63,7 +63,7 @@ hr {
   letter-spacing: .1em;
   font-size: 1.15em;
   font-family: "Kiona";
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 0px 25px;
   box-sizing: border-box; }
 
@@ -99,7 +99,7 @@ li:hover {
 .logo {
   background: url("imgs/Simple.png") no-repeat;
   height: auto;
-  width: 125px;
+  width: 135px;
   margin-top: 15px;
   display: flex;
   align-items: center;
@@ -142,7 +142,7 @@ h1 {
   position: absolute;
   letter-spacing: .1em;
   top: 20%;
-  left: 23%;
+  left: 23.2%;
   background-size: contain;
   color: #000;
   font-family: "Kiona";
@@ -168,9 +168,9 @@ h2 {
 
 #b1 {
   height: 5px;
-  width: auto;
+  width: 695px;
   top: 180px;
-  left: 23.20%; }
+  left: 26%; }
 
 .fitness {
   background: url("imgs/Shoe.png") no-repeat;
@@ -223,7 +223,7 @@ p2 {
   width: 49%;
   position: absolute;
   background-color: #FFF;
-  left: 26%;
+  left: 25%;
   top: 98%;
   background-size: contain;
   display: flex; }
@@ -250,7 +250,7 @@ p6 {
 #pro {
   height: 47px;
   width: auto;
-  top: 467px;
+  top: 473px;
   left: 33%;
   z-index: 10; }
 
@@ -276,8 +276,8 @@ p3 {
 #d1 {
   height: 47px;
   width: auto;
-  top: 422px;
-  left: 48%;
+  top: 425px;
+  left: 47%;
   z-index: 10; }
 
 p4 {
@@ -286,7 +286,7 @@ p4 {
   position: absolute;
   letter-spacing: .1em;
   top: 116%;
-  left: 46%;
+  left: 45%;
   color: #000;
   font-family: "Veranda";
   font-size: 16px;
@@ -336,17 +336,17 @@ p5 {
 #fb {
   background: url("imgs/facebook.png") no-repeat;
   top: 154.5%;
-  left: 40%; }
+  left: 41%; }
 
 #insta {
   background: url("imgs/insta.png") no-repeat;
   top: 155%;
-  left: 48%; }
+  left: 47.5%; }
 
 #twitter {
   background: url("imgs/twitter.png") no-repeat;
   top: 155%;
-  left: 56%; }
+  left: 55%; }
 
 p7 {
   height: auto;
