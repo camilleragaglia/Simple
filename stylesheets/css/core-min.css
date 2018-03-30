@@ -250,7 +250,7 @@ p6 {
 #pro {
   height: 47px;
   width: auto;
-  top: 473px;
+  top: 440px;
   left: 33%;
   z-index: 10; }
 
@@ -383,5 +383,5 @@ p8 {
 body {
   height: auto;
   width: 100vw;
-  background-color: #EEF1F2;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  background: linear-gradient(815deg, #EEF1F2, #BED3D5); }
